@@ -10,9 +10,16 @@ We will analyze whether a review is more likely to have a 5-star rating if the r
 ---
 
 # Results
-This is where the results will go
+![Review total outputs](/Resources/review_totals.png)
+*Review Totals*
+
+![5-star Review total outputs](/Resources/5star_review_totals.png)
+*5-Star Review Totals*
+
+![Review percent outputs](/Resources/review_percents.png)
+*Review Percents*
 
 # Summary
-Reviews that came from Vine users are more likely to be 5-stars. Manufacturers who partner with the Amazon Vine program should be wary that reviews may be inflated and may not reflect the customers true outview on the product. 
+Reviews that came from Vine users are less likely to be 5-stars. Manufacturers who partner with the Amazon Vine program should be wary that reviews will not always be 5-star due to incentives.  
 
-In addition, we could analyze the data further to see the results of 1-star reviews published by Vine and non-Vine reviewers. It would be interesting to see what percentage of Vine and non-Vine reviews were 1-star. Examining if the disparity was present in other star-ratings would solidify my previous statement, that reviews from Vine users are more likely to be 5-stars.
+In addition, we could analyze the data further to see the results of 4-, 3-, 2-, and 1-star reviews published by Vine and non-Vine reviewers. Examining if the disparity was present in other star-ratings would solidify my previous statement, that reviews from Vine users are less likely to be 5-stars and manufacturers should be wary of the preceived incentive they are offering.
